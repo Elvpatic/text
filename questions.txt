@@ -1,0 +1,1 @@
+生成一段python语言代码，输出hello world
